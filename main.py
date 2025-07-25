@@ -26,4 +26,4 @@ async def hej(ctx):
 async def pomoc(ctx):
     await ctx.send("Dostępne komendy: !ping, !hej, !pomoc")
 
-bot.run(os.getenv("https://discord.com/oauth2/authorize?client_id=1398089779845005473&permissions=8&integration_type=0&scope=bot"))
+bot.run(os.getenv(""))
